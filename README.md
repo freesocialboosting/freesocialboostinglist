@@ -2,6 +2,9 @@
 
 ## Table of Contents
 * Famety
+  <details>
+  <summary>Klik untuk lihat daftar Famety</summary>
+
   * Instagram
     * Followers
     * Likes
@@ -17,6 +20,8 @@
     * Likes
   * Facebook
     * Likes
+
+</details>
 
 * SmmStone
   * Instagram
