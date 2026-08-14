@@ -45,9 +45,6 @@
     * Followers
  
 # 3. Famety
-  <details>
-  <summary>Click here</summary>
-
   * Instagram
     * Followers
     * Likes
@@ -62,6 +59,4 @@
     * Views
     * Likes
   * Facebook
-    * Likes
-
-</details>      
+    * Likes 
